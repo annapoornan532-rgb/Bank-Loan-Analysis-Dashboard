@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis-Dashboard
+BANK LOAN ANALYSIS 
 
 <img width="1920" height="1100" alt="image" src="https://github.com/user-attachments/assets/2d5ea235-ddb1-41b7-9c22-d59baf437476" />
 
