@@ -24,37 +24,37 @@ DASHBOARDS
 
 KEY PERFORMANCE INDICATORS (KPI)
 
-Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
+• Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
 
-Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
+• Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
 
-Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
+• Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
 
-Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring Month-over-Month (MoM) variations in rates will provide insights into our lending portfolio's overall cost.
+• Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring Month-over-Month (MoM) variations in rates will provide insights into our lending portfolio's overall cost.
 
-Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute all loans, MTD, and track Month-over-Month MoM) fluctuations.
+• Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute all loans, MTD, and track Month-over-Month MoM) fluctuations.
 
 KEY INSIGHTS
 
 Good Loan
 
-Good Loan Application Percentage : 86.18 %
+• Good Loan Application Percentage : 86.18 %
 
-Good Loan Applications: 33.2 K
+• Good Loan Applications: 33.2 K
 
-Good Loan Funded Amount: $ 370.2 M
+• Good Loan Funded Amount: $ 370.2 M
 
-Good Loan Total Received Amount: $ 435.8 M
+• Good Loan Total Received Amount: $ 435.8 M
 
 Bad Loan
 
-Bad Loan Application Percentage : 13.82 %
+• Bad Loan Application Percentage : 13.82 %
 
-Bad Loan Applications: 5.3 K
+• Bad Loan Applications: 5.3 K
 
-Bad Loan Funded Amount: $ 65.5 M
+• Bad Loan Funded Amount: $ 65.5 M
 
-Bad Loan Total Received Amount: $ 37.3 M
+• Bad Loan Total Received Amount: $ 37.3 M
 
 Based on the insights it is clear that the bank is in good profit.
 
@@ -62,13 +62,13 @@ Conclusion: This dashboard serves as a powerful resource for analyzing and manag
 
 RECOMMONDATIONS
 
-Identify Risk Factors: Review the characteristics of bad loan applications to identify common risk factors such as low credit scores, high debt-to-income ratios, or unstable employment histories.
+• Identify Risk Factors: Review the characteristics of bad loan applications to identify common risk factors such as low credit scores, high debt-to-income ratios, or unstable employment histories.
 
-Enhance Underwriting Criteria: Strengthen underwriting criteria to mitigate risks associated with bad loans. This may include setting minimum thresholds for credit scores, debt-to-income ratios, or employment stability.
+• Enhance Underwriting Criteria: Strengthen underwriting criteria to mitigate risks associated with bad loans. This may include setting minimum thresholds for credit scores, debt-to-income ratios, or employment stability.
 
-Improve Verification Processes: Implement robust verification processes to ensure the accuracy of applicant information, including income verification, employment and identity verification.
+• Improve Verification Processes: Implement robust verification processes to ensure the accuracy of applicant information, including income verification, employment and identity verification.
 
-Monitor and Manage Portfolio: Continuously monitor the loan portfolio performance identify early warning signs of potential defaults. Implement proactive measures such as restructuring or collections strategies to minimize losses.
+• Monitor and Manage Portfolio: Continuously monitor the loan portfolio performance identify early warning signs of potential defaults. Implement proactive measures such as restructuring or collections strategies to minimize losses.
 
 Feedback and Suggestions:
 
